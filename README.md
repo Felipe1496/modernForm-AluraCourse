@@ -1,5 +1,5 @@
 <h1 align="center">
-RocketFlix
+Modern Form Application
 </h1>
 
 <p align="center">This a modern abordation of a form done at 'React: Function Components, uma abordagem moderna' course at Alura.</p>
