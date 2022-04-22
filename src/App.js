@@ -7,7 +7,7 @@ function handleSubmit(data) {
 }
 
 function validarCPF(cpf) {
-    if (cpf.length != 11) {
+    if (cpf.length !== 11) {
         return { error: true, texto: 'CPF deve ter 11 digitos' }
     } else {
         return { error: false, texto: '' }
